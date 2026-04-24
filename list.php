@@ -1,4 +1,4 @@
-<?php
+<?php 
 // ===== 1. Database Config =====
 $host = "localhost";
 $user = "root";
