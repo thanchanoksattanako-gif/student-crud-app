@@ -1,3 +1,4 @@
+// Updated: 2026-04-24
 <?php 
 // ===== 1. Database Config =====
 $host = "localhost";
